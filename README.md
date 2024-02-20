@@ -11,12 +11,12 @@ http://bit.ly/gineesh  |  www.techbeats.guru
 | ------------- | ------------- |
 | host_vars  | directory for host variable files  |
 | group_vars | directory for group variable files |
-| facts | collecting the host specific data |
+| facts | collecting the host-specific data |
 | `register` | registered variables |
 | `vars` | in playbook |
 | `vars_files` | in playbook |
 | `include_vars` | module |
-| `include_tasks: stuff.yml` | include a sub task file |
+| `include_tasks: stuff.yml` | include a sub-task file |
 
 ## Task Control & Loops
 | Item  | Description |
